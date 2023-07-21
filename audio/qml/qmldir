@@ -1,0 +1,4 @@
+module Long.Audio
+plugin longaudio_qmlplugins
+
+PulseObjectFilterModel 1.0 PulseObjectFilterModel.qml

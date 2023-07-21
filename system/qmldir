@@ -1,0 +1,3 @@
+module Long.System
+
+plugin longsystem_qmlplugins

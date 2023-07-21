@@ -1,0 +1,4 @@
+module Long.Bluez
+plugin longbluez_qmlplugins
+
+DevicesModel 1.0 DevicesModel.qml
